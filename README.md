@@ -71,27 +71,5 @@ This project follows **Clean Architecture principles**:
 
 ---
 
-## 💻 Installation & Setup
-
-### Backend
-```bash
-cd MarketingInsights.API
-dotnet restore
-dotnet run
-```
-
-### Frontend
-```bash
-cd MarketingInsights.Frontend
-npm install
-npm start
-```
-
-> Default URLs:  
-> - API → http://localhost:5000  
-> - Frontend → http://localhost:3000
-
----
-
 ## 📄 License
 This project is licensed under the **MIT License** – free to use and modify.
