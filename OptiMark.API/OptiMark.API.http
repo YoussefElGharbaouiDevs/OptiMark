@@ -1,0 +1,6 @@
+@OptiMark.API_HostAddress = http://localhost:5276
+
+GET {{OptiMark.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
